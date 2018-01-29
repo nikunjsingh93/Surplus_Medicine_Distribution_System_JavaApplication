@@ -1,7 +1,8 @@
-# Surplus_Medicine_Distribution_System_JavaApplication
+# Surplus Medicine Distribution System
+
 Java Application With Front End in Swing. The Application which aimes at providing medicinal drugs to patients, which were collected by other patients who had them in surplus quantities 
 
-Some Screenshots:
+# Some Screenshots:
 
 ![picture1](https://user-images.githubusercontent.com/31995471/35307031-d4ac6b1a-006e-11e8-90bc-fceafd4d5d37.png)
 
